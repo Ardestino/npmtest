@@ -1,5 +1,5 @@
 {
-  "name": "npmtest",
+  "name": "node-red-contrib-npmtest",
   "version": "1.0.0",
   "description": "A simple test package",
   "main": "index.js",
